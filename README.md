@@ -1,8 +1,17 @@
-# onestlatech
+# Qu'est-ce que?
 
-✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites https://onestla.tech
+✊ Je vous invite à regarder leur site qui est un appel criant de vérité sur les enjeux de l'automatisation et de la redistribution des bénéfices de l'avancée qu'elle nous apporte https://onestla.tech
 
-## Signez !
+En fait j'ai été bluffé quand j'ai vu l'originalité du système pour signer la pétition: créer une issue sur le dépot github du truc, je croyais que c'était automatisé, et 4 jours plus tard j'ai eu une notification qui m'a informé du fait qu'en fait ces couillons recopient manuellement les nouveaux signataires, c'est un peu ironique pour des "travailleurs du numérique" de pas avoir automatisé un truc aussi dégradant que d'ajouter des entrées à une liste...
 
-* **Signez cet appel** avec un compte GitHub.com, [en créant une "issue" sur notre dépôt GitHub](https://github.com/onestlatech/onestlatech.github.io/issues/new?labels=signature&template=signature.md&title=Signer+l%27appel), ajoutez vos informations et cliquez sur `Submit new issue`.
-* ou si vous n'avez pas de compte, signez en nous envoyant un email à [onestlatech@protonmail.com](mailto:onestlatech@protonmail.com?subject=Signer%20l’appel&body=[Prénom%20Nom]%28https://web-ou-reseau-social%29,%20fonction%20et%20éventuellement%20organisation%20si%20vous%20le%20souhaitez%20%28pas%20obligatoire%29%0D%0A---%0D%0AComment%20signer%20par%20email:%20indiquez%20vos%20nom,%20prénom,%20site%20web%20et%20si%20vous%20le%20souhaitez%20fonction%20et%20organisation,%20puis%20envoyez%20ce%20mail%20à%20onestlatech@protonmail.com.).
+L'idée a cependant du potentiel donc voici un petit CMS pour créer une pétition ou un manifeste signable à travers github
+
+
+## TODO
+
+- automatiser le formulaire
+- Ajouter un formulaire ne nécessitant pas github
+- panel admin pour supprimer les posts indésirables
+- captcha
+- tache CRON ou autre mécanisme
+
