@@ -6,6 +6,8 @@ En fait j'ai été bluffé quand j'ai vu l'originalité du système pour signer 
 
 L'idée a cependant du potentiel donc voici un petit CMS pour créer une pétition ou un manifeste signable à travers github
 
+Note: ok ils utilisent ruby et du markdown, pour le premier merci mais non merci, pour le second à voir. Donc sachez que le projet ici n'aura rien à voir avec le projet original. Ici ça sera du full HTML5/PHP/JS
+
 # TODO
 
 - automatiser le formulaire
